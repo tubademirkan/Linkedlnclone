@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(252, 252, 252, 0.973);
+}
+
+.yuvarlak{
+    border-radius: 50%;
+}
+
+.orta{
+    text-align: center;
+}
+
+.sol{
+    margin-right: 243px;
+}
+
+.ortala{
+   height: 30px;
+}
+
+.beyaz{
+    background-color: white;
+}
